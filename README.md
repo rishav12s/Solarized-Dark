@@ -15,7 +15,7 @@
 
 ## Installation
 ```sh
-Hyde theme patch "Solarized Dark" https://github.com/rishav12s/Solarized Dark
+Hyde theme patch "Solarized Dark" https://github.com/rishav12s/Solarized-Dark
 ```
 or 
 ```sh

@@ -15,11 +15,11 @@
 
 ## Installation
 ```sh
-Hyde theme patch "Solarized Dark" https://github.com/rishav12s/Solarized-Dark
+Hyde theme import "Solarized Dark" https://github.com/rishav12s/Solarized-Dark
 ```
 or 
 ```sh
-Hyde theme patch
+Hyde theme import
 ```
 and choose Solarized Dark
 
